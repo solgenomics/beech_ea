@@ -1,7 +1,7 @@
 <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
 	<head>
-		<title>Lycopersicoides-EA</title>
+		<title>Fagus Grandifolia-EA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<script type="text/javascript" src="/static/js/jquery.js"></script>
 
@@ -39,7 +39,7 @@
               <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="https://solgenomics.net" style="padding:8px 8px" target="_blank"><img src="/static/images/sgn_logo.png" width="40" title="SGN Home"></a>
-            <a class="navbar-brand sgn_brand_name" href="/">Lycopersicoides Expression Atlas</a>
+            <a class="navbar-brand sgn_brand_name" href="/">Fagus Grandifolia Expression Atlas</a>
           </div>
 
           <div class="collapse navbar-collapse" id="myNavbar">
